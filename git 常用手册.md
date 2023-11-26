@@ -20,7 +20,6 @@ $ 切换分支 git switch feature-1
 $ 切换分支 git checkout main  要合并到的分支
 $ 合并 git merge [branch]
 
-4. 忽略提交 .gitignore
 
 5. 回溯历史
 $ git restore filename  取消提交，恢复存档
@@ -29,3 +28,4 @@ $ 查看历史操作记录 git refloglog
 
 ```
 
+加了新功能
