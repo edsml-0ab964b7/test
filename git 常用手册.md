@@ -28,6 +28,4 @@ $ 查看历史操作记录 git reflog
 
 ```
 
-都说是wqdqw 
-
-tianjia
+来自 feather 1（保留）
