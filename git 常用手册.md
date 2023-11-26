@@ -25,7 +25,7 @@ $ 合并 git merge [branch]
 5. 回溯历史
 $ git restore filename  取消提交，恢复存档
 $ git reset --hard 2b4jfe32		用id回溯历史提交
-$ 查看历史操作记录 git reflog
+$ 查看历史操作记录 git reflog 远程修改
 
 ```
-
+远程修改
