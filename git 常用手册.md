@@ -27,7 +27,7 @@ $ git reset --hard 2b4jfe32		用id回溯历史提交
 $ 查看历史操作记录 git refloglog
 
 ```
-
+远程修改
 加了
 
 第二次 com
